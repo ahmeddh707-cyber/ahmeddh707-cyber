@@ -24,9 +24,9 @@
 * 🧠 Problem Solving
 ---
 
-## 🔥 Top Languages
+## 🔥 Languages
 
-C/Python
+English/Arabic/French
 
 ---
 
