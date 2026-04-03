@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmed
 
-<!--
-**ahmeddh707-cyber/ahmeddh707-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about Programming & Cybersecurity
+🌍 From Tunisia 🇹🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 I’m currently learning **Web Development, C & Python**
+* 🌱 Exploring **Cybersecurity basics**
+* 🎯 Goal: Become a **developer & security expert**
+* ⚡ Always improving my coding skills
+
+---
+
+## 🛠️ Skills
+
+* 💻 C Programming
+* 🐍 Python
+* 🌐 HTML & CSS
+* 🔧 Git & GitHub
+* 🧠 Problem Solving
+---
+
+## 🔥 Top Languages
+
+C/Python
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: ahmeddh707@example.com
+
+---
+
+
+> Future cybersecurity expert in progress 🚀
